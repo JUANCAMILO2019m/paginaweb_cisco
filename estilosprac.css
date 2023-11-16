@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(78, 78, 255);
+}
+
+.contenido{
+    text-align: center;
+    width: 100%;
+    padding: 20px;
+    background-color: #333;
+    color: #fff;
+    max-width: 1299px;
+}
+
+.contenedor{
+    text-align: center;
+}
+
+.contenedor img{
+    margin: 0 10px;
+}
+
+footer{
+    padding: 50px;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+}
